@@ -34,9 +34,9 @@ p {
   font-size 24px;
   max-width: 80%;
 }
-#second p {
-  max-width: 50%;
-}
+/* #second p { */
+  /* max-width: 50%; */
+/* } */
 img {
   display: block;
   margin-left: auto;

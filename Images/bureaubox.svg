@@ -24,17 +24,62 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.4579594"
-     inkscape:cx="925.84626"
-     inkscape:cy="605.94891"
-     inkscape:window-width="1653"
-     inkscape:window-height="1172"
+     inkscape:zoom="0.33766258"
+     inkscape:cx="476.80735"
+     inkscape:cy="602.67264"
+     inkscape:window-width="2048"
+     inkscape:window-height="1124"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0.10426056"
+         id="stop5" />
+      <stop
+         style="stop-color:#c8cbcd;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="powerclip"
+       message=""
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false" />
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#4c4c4c;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="1"
+         id="stop1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient13"
        inkscape:collect="always">
@@ -173,7 +218,7 @@
        y2="364.67252" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient131"
+       xlink:href="#linearGradient2"
        id="radialGradient126"
        cx="408.27988"
        cy="161.60692"
@@ -195,7 +240,7 @@
        gradientTransform="matrix(1.3322737,0.02373381,-0.025421,1.4269822,-130.56847,-84.666833)" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient131"
+       xlink:href="#linearGradient4"
        id="radialGradient131"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.3322737,0.02373381,-0.025421,1.4269822,-176.38236,-128.1842)"
@@ -222,6 +267,86 @@
        x2="285.41061"
        y2="341.15482"
        gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         id="circle4"
+         cx="307.21286"
+         cy="436.73077"
+         r="25"
+         display="none"
+         d="m 332.21286,436.73077 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      <path
+         id="lpe_path-effect4"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         class="powerclip"
+         d="m 257.21286,386.73077 h 100 v 100 h -100 z m 75,50 a 25,25 0 0 0 -25,-25 25,25 0 0 0 -25,25 25,25 0 0 0 25,25 25,25 0 0 0 25,-25 z" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient6"
+       cx="307.21286"
+       cy="436.73077"
+       fx="307.21286"
+       fy="436.73077"
+       r="45"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient6-3"
+       cx="307.21286"
+       cy="436.73077"
+       fx="307.21286"
+       fy="436.73077"
+       r="45"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4-9">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         id="circle4-2"
+         cx="307.21286"
+         cy="436.73077"
+         r="25"
+         display="none"
+         d="m 332.21286,436.73077 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      <path
+         id="lpe_path-effect4-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         class="powerclip"
+         d="m 257.21286,386.73077 h 100 v 100 h -100 z m 75,50 a 25,25 0 0 0 -25,-25 25,25 0 0 0 -25,25 25,25 0 0 0 25,25 25,25 0 0 0 25,-25 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       message=""
+       id="path-effect4-8"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipath_lpe_path-effect4-8">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         id="circle8"
+         cx="307.21286"
+         cy="436.73077"
+         r="25"
+         display="none"
+         d="m 332.21286,436.73077 a 25,25 0 0 1 -25,25 25,25 0 0 1 -25,-25 25,25 0 0 1 25,-25 25,25 0 0 1 25,25 z" />
+      <path
+         id="lpe_path-effect4-8"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.0503693"
+         class="powerclip"
+         d="m 257.21286,386.73077 h 100 v 100 h -100 z m 75,50 a 25,25 0 0 0 -25,-25 25,25 0 0 0 -25,25 25,25 0 0 0 25,25 25,25 0 0 0 25,-25 z" />
+    </clipPath>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -259,6 +384,18 @@
        cx="195.83333"
        cy="120"
        r="60" />
+    <path
+       style="fill:url(#radialGradient6-3);fill-opacity:0.875915;stroke-width:0.0906651"
+       id="path4-3"
+       clip-path="url(#clipath_lpe_path-effect4-8)"
+       inkscape:path-effect="#path-effect4-8"
+       sodipodi:type="arc"
+       sodipodi:cx="307.21286"
+       sodipodi:cy="436.73077"
+       sodipodi:rx="45"
+       sodipodi:ry="45"
+       d="m 352.21286,436.73077 a 45,45 0 0 1 -45,45 45,45 0 0 1 -45,-45 45,45 0 0 1 45,-45 45,45 0 0 1 45,45 z"
+       transform="translate(-111.37953,-316.73077)" />
     <circle
        style="vector-effect:non-scaling-stroke;fill:#ababab;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
        id="path3"
@@ -373,6 +510,32 @@
        cx="518.63397"
        cy="143.76599"
        r="2" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222515;stroke-dasharray:none;stroke-opacity:1"
+       id="rect131"
+       width="19.777508"
+       height="9.7775078"
+       x="20"
+       y="235.2" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222515;stroke-dasharray:none;stroke-opacity:1"
+       id="rect131-1"
+       width="19.777508"
+       height="9.7775078"
+       x="520.19995"
+       y="235.2" />
+    <path
+       style="fill:url(#radialGradient6);fill-opacity:0.87591457;stroke-width:0.0906651"
+       id="path4"
+       clip-path="url(#clipPath4)"
+       inkscape:path-effect="#path-effect4"
+       sodipodi:type="arc"
+       sodipodi:cx="307.21286"
+       sodipodi:cy="436.73077"
+       sodipodi:rx="45"
+       sodipodi:ry="45"
+       d="m 352.21286,436.73077 a 45,45 0 0 1 -45,45 45,45 0 0 1 -45,-45 45,45 0 0 1 45,-45 45,45 0 0 1 45,45 z"
+       transform="translate(56.953827,-316.73077)" />
     <g
        id="g132"
        transform="translate(1.5457715,-319.11843)"
@@ -427,19 +590,5 @@
          x="27.842916"
          y="349.11844" />
     </g>
-    <rect
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222515;stroke-dasharray:none;stroke-opacity:1"
-       id="rect131"
-       width="19.777508"
-       height="9.7775078"
-       x="20"
-       y="235.2" />
-    <rect
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.222515;stroke-dasharray:none;stroke-opacity:1"
-       id="rect131-1"
-       width="19.777508"
-       height="9.7775078"
-       x="520.19995"
-       y="235.2" />
   </g>
 </svg>
